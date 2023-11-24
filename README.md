@@ -15,26 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Michael Ly
-#### Aspiring Software Engineer | Seeking SWE Internships | 💻 HTML/CSS and Python
-![Aspiring Software Engineer | Seeking SWE Internships | 💻 HTML/CSS and Python](https://media.licdn.com/dms/image/D5616AQFoSrToH7linQ/profile-displaybackgroundimage-shrink_350_1400/0/1700427464266?e=1706140800&v=beta&t=a8d-pJRIeQY_0AdULw3VF2OmYFoLMMx0Fi8iOtdilaA)
+### Hi there 👋, my name is Michael Ly
+#### I am an aspiring software engineer seeking SWE Internships
+![I am an aspiring software engineer seeking SWE Internships](https://media.licdn.com/dms/image/D5616AQFoSrToH7linQ/profile-displaybackgroundimage-shrink_350_1400/0/1700427464266?e=1706140800&v=beta&t=a8d-pJRIeQY_0AdULw3VF2OmYFoLMMx0Fi8iOtdilaA)
 
-𝗠𝗬 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦:
-
-• Collaborated with a team to build a Python AI application (HealthBot) that suggests medication in response to user inquiries by utilizing web scraping, Tkinter, and Chatterbot library
-• Collaborated with a team to brainstorm, design, and build a new, user-friendly look for the Wikipedia website using JavaFX, Eclipse, and version control with Git. 
-
-𝗠𝗬 𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧𝗦:
-
-• Self-teaching front-end development, learning HTML/CSS and Javascript through online tutorials, and building website replicas (such as YouTube)
-• Lifting weights and bodybuilding for the past 3 years, passionate about health and fitness
-• Interests in Data Science, Machine Learning, Quantitative trading, and investing
+Aspiring Software Engineer with entry-level professional experience in teaching programming to students. My ambition is to simplify people’s lives with practical and user-friendly software through my problem-solving ability and technical skills such as HTML/CSS, Python, and Java. 
 
 Skills: HTML / CSS / Python / Java / Data Structures / Git
 
+- 🔭 I’m currently working on building clone of Youtube 
+- 🌱 I’m currently learning Front-end development and MIPS Assembly Programming 
+- 👯 I’m looking to collaborate on a full-stack web app  
+- 💬 Ask me about Lifting, fitness, and bodybuilding 
+- 📫 How to reach me: michaelly766@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I can solve a rubik's cube in under 30 seconds 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichaelLy766)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-ly-swe//)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelLy766)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelLy766)](https://github.com/anuraghazra/github-readme-stats)
