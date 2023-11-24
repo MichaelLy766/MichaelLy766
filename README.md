@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **MichaelLy766/MichaelLy766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, Michael Ly
+### Michael Ly
 #### Aspiring Software Engineer | Seeking SWE Internships | 💻 HTML/CSS and Python
 ![Aspiring Software Engineer | Seeking SWE Internships | 💻 HTML/CSS and Python](https://media.licdn.com/dms/image/D5616AQFoSrToH7linQ/profile-displaybackgroundimage-shrink_350_1400/0/1700427464266?e=1706140800&v=beta&t=a8d-pJRIeQY_0AdULw3VF2OmYFoLMMx0Fi8iOtdilaA)
 
