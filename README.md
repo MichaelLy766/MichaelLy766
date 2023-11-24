@@ -10,8 +10,8 @@ I am an aspiring Software Engineer with entry-level professional experience in t
 * Data Structures
 * Git
 
-
-- 🔭 I’m currently working on building clone of Youtube 
+## More About Me
+- 🔭 I’m currently working on building a clone of Youtube 
 - 🌱 I’m currently learning Front-end development and MIPS Assembly Programming 
 - 👯 I’m looking to collaborate on a full-stack web app  
 - 💬 Ask me about Lifting, fitness, and bodybuilding 
