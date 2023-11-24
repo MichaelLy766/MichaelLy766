@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Aspiring Software Engineer with entry-level professional experience in teaching programming to students. My ambition is to simplify people’s lives with practical and user-friendly software through my problem-solving ability and technical skills such as HTML/CSS, Python, and Java. 
+### Hi there 👋, Michael Ly
+#### Aspiring Software Engineer | Seeking SWE Internships | 💻 HTML/CSS and Python
+![Aspiring Software Engineer | Seeking SWE Internships | 💻 HTML/CSS and Python](https://media.licdn.com/dms/image/D5616AQFoSrToH7linQ/profile-displaybackgroundimage-shrink_350_1400/0/1700427464266?e=1706140800&v=beta&t=a8d-pJRIeQY_0AdULw3VF2OmYFoLMMx0Fi8iOtdilaA)
 
 𝗠𝗬 𝗛𝗜𝗚𝗛𝗟𝗜𝗚𝗛𝗧𝗦:
 
@@ -28,6 +30,11 @@ Aspiring Software Engineer with entry-level professional experience in teaching 
 • Lifting weights and bodybuilding for the past 3 years, passionate about health and fitness
 • Interests in Data Science, Machine Learning, Quantitative trading, and investing
 
-Do you want to become a collaborator on Github? Then check out my GitHub profile: https://github.com/MichaelLy766 👨‍💻 Do you relate to my story, or want to know more about my background? I'd love to connect with you on LinkedIn! 👔 You can also reach me at michaelly766@gmail.com.
+Skills: HTML / CSS / Python / Java / Data Structures / Git
+
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelLy766)](https://github.com/anuraghazra/github-readme-stats)
