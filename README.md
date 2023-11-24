@@ -29,3 +29,5 @@ Aspiring Software Engineer with entry-level professional experience in teaching 
 • Interests in Data Science, Machine Learning, Quantitative trading, and investing
 
 Do you want to become a collaborator on Github? Then check out my GitHub profile: https://github.com/MichaelLy766 👨‍💻 Do you relate to my story, or want to know more about my background? I'd love to connect with you on LinkedIn! 👔 You can also reach me at michaelly766@gmail.com.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelLy766)](https://github.com/anuraghazra/github-readme-stats)
