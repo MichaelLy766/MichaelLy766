@@ -1,27 +1,15 @@
-
-
-<!--
-**MichaelLy766/MichaelLy766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi there 👋, my name is Michael Ly
-#### I am an aspiring software engineer seeking SWE Internships
 ![I am an aspiring software engineer seeking SWE Internships](https://github.com/MichaelLy766/MichaelLy766/blob/main/michael-ly-banner.jpg)
 
-Aspiring Software Engineer with entry-level professional experience in teaching programming to students. My ambition is to simplify people’s lives with practical and user-friendly software through my problem-solving ability and technical skills such as HTML/CSS, Python, and Java. 
+# Hi there 👋, my name is Michael Ly
+I am an aspiring Software Engineer with entry-level professional experience in teaching programming to students. My ambition is to simplify people’s lives with practical and user-friendly software through my problem-solving ability and technical skills such as HTML/CSS, Python, and Java. 
 
-Skills: HTML / CSS / Python / Java / Data Structures / Git
+## Skills and Experience
+* 🐍 Python
+* Java
+* 💻 HTML/CSS
+* Data Structures
+* Git
+
 
 - 🔭 I’m currently working on building clone of Youtube 
 - 🌱 I’m currently learning Front-end development and MIPS Assembly Programming 
