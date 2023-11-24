@@ -19,6 +19,9 @@ I am an aspiring Software Engineer with entry-level professional experience in t
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can solve a rubik's cube in under 30 seconds 
 
+<add work examples, gifs of project demonstration + link to their repo>
+
+<Play with auto-update features, cool features: https://dev.to/github/10-standout-github-profile-readmes-h2o>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MichaelLy766)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/michael-ly-swe//)  
 
