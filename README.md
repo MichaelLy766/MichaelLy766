@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, my name is Michael Ly
 #### I am an aspiring software engineer seeking SWE Internships
-![I am an aspiring software engineer seeking SWE Internships]([https://media.licdn.com/dms/image/D5616AQFoSrToH7linQ/profile-displaybackgroundimage-shrink_350_1400/0/1700427464266?e=1706140800&v=beta&t=a8d-pJRIeQY_0AdULw3VF2OmYFoLMMx0Fi8iOtdilaA](https://github.com/MichaelLy766/MichaelLy766/blob/main/michael-ly-banner.jpg))
+![I am an aspiring software engineer seeking SWE Internships](https://github.com/MichaelLy766/MichaelLy766/blob/main/michael-ly-banner.jpg)
 
 Aspiring Software Engineer with entry-level professional experience in teaching programming to students. My ambition is to simplify people’s lives with practical and user-friendly software through my problem-solving ability and technical skills such as HTML/CSS, Python, and Java. 
 
